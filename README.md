@@ -1,2 +1,1 @@
-# hello-world
-linux
+git clone htttp://github.com/eka-clay/blackeye.git
